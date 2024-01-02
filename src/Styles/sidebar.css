@@ -1,0 +1,56 @@
+.block {
+  height: 80vh;
+  max-width: 250px;
+  width: 30vw;
+  min-width: 200px;
+  box-sizing: border-box;
+  display: block;
+  margin-left: 30px;
+  top: 0;
+  left: 0;
+}
+
+.favorites {
+  width: 15vw;
+  max-height: 30vh;
+  overflow-y: auto;
+}
+
+.projects {
+  width: 15vw;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+/* Style the scrollbar track (background) */
+.projects::-webkit-scrollbar-track {
+  background-color: black;
+  border-radius: 10px; /* Optional: Adjust for desired curvature */
+}
+
+/* Style the scrollbar thumb (the draggable element) */
+.projects::-webkit-scrollbar-thumb {
+  background-color: #43766c;
+  border-radius: 10px; /* Rounded corners for the scrollbar thumb */
+}
+
+/* Style the scrollbar itself (width, etc.) */
+.projects::-webkit-scrollbar {
+  width: 8px; /* Adjust the width of the scrollbar */
+}
+
+.favorites::-webkit-scrollbar-track {
+  background-color: black;
+  border-radius: 10px; /* Optional: Adjust for desired curvature */
+}
+
+/* Style the scrollbar thumb (the draggable element) */
+.favorites::-webkit-scrollbar-thumb {
+  background-color: #43766c;
+  border-radius: 10px; /* Rounded corners for the scrollbar thumb */
+}
+
+/* Style the scrollbar itself (width, etc.) */
+.favorites::-webkit-scrollbar {
+  width: 8px; /* Adjust the width of the scrollbar */
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "name": "Client 1",
+    "color": "green",
+    "completed": 80,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Create Template",
+        "description": "Design a Template",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "name": "Client 2",
+    "color": "red",
+    "completed": 60,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Create Template",
+        "description": "Design a Template",
+        "status": "Complete"
+      },
+      {
+        "id": 1,
+        "taskname": "Create App",
+        "description": "Making an App",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "name": "Client 3",
+    "color": "yellow",
+    "completed": 20,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Create Template",
+        "description": "Design a Template",
+        "status": "Complete"
+      }
+    ]
+  },
+
+  {
+    "index": 3,
+    "name": "Client 4",
+    "color": "indigo",
+    "completed": 90,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Develop Backend",
+        "description": "Create server-side logic",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "name": "Client 5",
+    "color": "red",
+    "completed": 50,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Database Design",
+        "description": "Plan and implement database structure",
+        "status": "Not Started"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Client 6",
+    "color": "yellow",
+    "completed": 30,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Frontend Development",
+        "description": "Build user interface components",
+        "status": "In Progress"
+      },
+      {
+        "id": 1,
+        "taskname": "User Testing",
+        "description": "Conduct user experience tests",
+        "status": "Planned"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Client 7",
+    "color": "yellow",
+    "completed": 75,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Market Research",
+        "description": "Analyze market trends",
+        "status": "Complete"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Client 8",
+    "color": "yellow",
+    "completed": 40,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "SEO Optimization",
+        "description": "Improve website's SEO score",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Client 9",
+    "color": "indigo",
+    "completed": 85,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Brand Strategy",
+        "description": "Develop a branding strategy",
+        "status": "Complete"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Client 10",
+    "color": "red",
+    "completed": 55,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Content Creation",
+        "description": "Generate blog and social media content",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Client 11",
+    "color": "lime",
+    "completed": 65,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "Network Security",
+        "description": "Enhance network security protocols",
+        "status": "Complete"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Client 12",
+    "color": "indigo",
+    "completed": 35,
+    "favorite": true,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "UX Design",
+        "description": "Create user experience designs",
+        "status": "Planned"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Client 13",
+    "color": "indigo",
+    "completed": 45,
+    "favorite": false,
+    "tasks": [
+      {
+        "id": 0,
+        "taskname": "API Integration",
+        "description": "Integrate third-party APIs",
+        "status": "In Progress"
+      }
+    ]
+  }
+]

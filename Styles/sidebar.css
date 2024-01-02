@@ -1,0 +1,12 @@
+.block {
+  padding-top: 45px;
+  height: 100vh;
+  max-width: 250px;
+  width: 30vw;
+  min-width: 200px;
+  box-sizing: border-box;
+  display: block;
+  margin-left: 30px;
+  top: 0;
+  left: 0;
+}

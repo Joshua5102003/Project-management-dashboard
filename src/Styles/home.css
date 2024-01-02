@@ -1,0 +1,12 @@
+.home {
+  background-color: white;
+  padding: 20px;
+  width: 100%;
+  border-radius: 20px;
+  min-width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+
+  height: 80vh;
+}
